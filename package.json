@@ -131,7 +131,7 @@
       "jest-watch-typeahead/testname"
     ]
   },
-    "babel": {
+  "babel": {
     "plugins": [
       [
         "@babel/plugin-proposal-decorators",
@@ -144,5 +144,4 @@
       "react-app"
     ]
   }
-
 }
